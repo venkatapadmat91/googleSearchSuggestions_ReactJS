@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.suggestion-item-con {
+  display: flex;
+  justify-content: space-between;
+}
+
+.delete-btn {
+  border: 0;
+  background: none;
+}
+
+.suggestion-arrow {
+  height: 20px;
+}
